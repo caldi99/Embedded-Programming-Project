@@ -83,3 +83,14 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+#Android Studio
+.idea/
+*.gitignore
+*.gradle
+*.jar
+*.bat
+*.properties
+gradlew
+*.pro
+gradle/

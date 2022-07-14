@@ -1,0 +1,10 @@
+<resources>
+    <string name="timer">Timer</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="app_name">Counters</string>
+    <string name="tip_message">Select A Different Value!</string>
+    <string name="notification_title">Timer Exceed</string>
+    <string name="notification_info">Timer Has Exceed</string>
+    <string name="notification_setting">Notification Setting</string>
+    <string name="notification_stop_timer">Stop Timer</string>
+</resources>
